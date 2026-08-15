@@ -4,7 +4,7 @@ let bot;
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: 'orca-seal-91-9f9078.orc.host',
+    host: 'orca-barracuda-70-849f5e.orc.host',
     port: 25565, // ✅ Replace with actual port number
     username: 'idle',
     version: '1.21.4'
